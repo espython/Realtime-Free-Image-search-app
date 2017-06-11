@@ -1,0 +1,31 @@
+{
+  "name": "image-search-app",
+  "version": "0.1.0",
+  "description": "Realtime Free Image search app with node and express by using unsplash api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espython/Realtime-Free-Image-search-app.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "image-search",
+    "app"
+  ],
+  "author": "espython",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/espython/Realtime-Free-Image-search-app/issues"
+  },
+  "homepage": "https://github.com/espython/Realtime-Free-Image-search-app#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0"
+  }
+}
